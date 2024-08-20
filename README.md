@@ -34,4 +34,4 @@ Step 2 - Add a Credential: Enter the credential type, username, and password, th
 1. The application stores credentials in plain text in passwords.txt. This is for educational purposes only and is not secure for storing sensitive data.
 2. The background image should be placed in the specified path, or the path can be updated in the script.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
