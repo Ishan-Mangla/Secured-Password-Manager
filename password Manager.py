@@ -169,7 +169,7 @@ if __name__ == "__main__":
     app.title("Secured Password Manager")
     
     # Load the background image
-    background_image = Image.open("c:/Users/Ishan/Downloads/cyber-security.jpg")  # Replace with your image path
+    background_image = Image.open("cyber-security.jpg")  # Replace with your image path
     background_image = background_image.resize((560, 370), Image.Resampling.LANCZOS)
     bg_image = ImageTk.PhotoImage(background_image)
 
